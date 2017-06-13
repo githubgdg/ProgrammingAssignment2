@@ -61,7 +61,7 @@ cacheSolve <- function(x, ...) {
         result_data                   	        # Return the inverse to the caller
 }
 
-# Test Result:
+# Test Result, 2 matrix samples:
 
 # > mx <- makeCacheMatrix()
 # > mx$set(matrix(1:4,2,2))
